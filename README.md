@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Macari-Thalita
 - 🐱 I’m interested in Computer Science and cats!
-- 🌱 I’m currently learning JavaScript, React and Delphi
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on being here :)
 - 📫 How to reach me: You can send me a letter or try this email: thalita.macari@gmail.com
 
